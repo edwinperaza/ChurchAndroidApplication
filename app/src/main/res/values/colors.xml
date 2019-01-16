@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="colorPrimaryLight">#FFAB91</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="perry_winkle">#9c9adf</color>
+    <color name="periwinkle_blue">#849bff</color>
+    <color name="dark_periwinkle">#6d80d4</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="pinkish_grey">#d0d0d0</color>
+    <color name="background_grey">#EEEEEE</color>
+    <color name="border_grey">#9E9E9E</color>
+
+</resources>

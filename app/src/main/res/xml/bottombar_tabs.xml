@@ -1,0 +1,26 @@
+<tabs>
+    <tab
+         icon="@drawable/tab_home"
+         id="@+id/sermons"
+         title="@string/sermons_tab"/>
+    <tab
+        icon="@drawable/tab_objective"
+        id="@+id/events"
+        title="@string/events_tab"/>
+
+    <tab
+        icon="@drawable/tab_faith"
+        id="@+id/connect"
+        title="@string/connect_tab"/>
+
+    <tab
+        icon="@drawable/tab_conscience"
+        id="@+id/awareness"
+        title="@string/two_tab"/>
+
+    <tab
+        icon="@drawable/tab_love"
+        id="@+id/contact"
+        title="@string/contact_tab"/>
+
+</tabs>

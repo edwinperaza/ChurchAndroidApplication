@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Church App</string>
+    <string name="lbl_version">App Version: %1$s %2$d</string>
+    <string name="default_channel_id">moriah.channel.id</string>
+    <string name="default_channel_name">Default</string>
+
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">Correo electrónico inválido</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="login_email_and_password_required">Por favor introduce correo electrónico y/o contraseña</string>
+    <string name="login_failure_user_email">Email y/o contraseña incorrecto</string>
+
+    <!--Strings related to register -->
+
+    <!--Strings related to profile -->
+    <string name="profile_reset_password">Reiniciar Contraseña</string>
+    <string name="profile_reset_password_message">¿Seguro deseas reiniciar tu contraseña?</string>
+    <string name="profile_reset_password_success_message">Un email ha sido enviado para que cambies tu contraseña</string>
+    <string name="profile_reset_password_failure_message">Ha habido un error al cambiar tu contraseña. Intenta más tarde</string>
+    <string name="profile_reset_password_mandatory_message">Debe agregar un correo electrónico</string>
+    <string name="profile_term_and_conditions_url">http://www.google.com</string>
+
+    <string name="contact_address">3400 Hunters Creek Blvd\n Orlando, FL 32837</string>
+    <string name="contact_service_time">8:30 am       (Traditional)\n10:00 am     (Contemporary)\n11:30 am     (Contemporary)\n2:00 pm       (en Español)</string>
+    <string name="contact_wednesday_night_activities">5:30&#8211;6:45 pm &#8211; Free Family Dinner\n7:00&#8211;8:30 pm &#8211; Connecting Groups\n
+    Men\'s Group\n
+    Women\'s Group\n
+    Couples\n
+    Grupo en Español\n
+    Singles\n
+    Youth\n
+    Royal Rangers (for boys)\n
+    Girl\'s Ministries\n
+    Rainbows (pre-school)\n
+    Nursery</string>
+
+    <!--Strings related to Sermon Detail -->
+    <string name="sermon_detail_image_content">Sermon Image</string>
+    <string name="sermon_detail_title">Sermon Title</string>
+    <string name="sermon_detail_description">Sermon Description</string>
+    <string name="sermon_detail_button_watch">Watch Video</string>
+    <string name="sermon_detail_share">Share to</string>
+    <string name="sermon_detail_share_message_title">I would like to share with you the sermon called: </string>
+    <string name="sermon_detail_share_message_url">, go to: </string>
+    <string name="sermon_detail_error">There was an error with the Sermon detail</string>
+
+    <!-- Menu tabs -->
+    <string name="sermons_tab">Sermons</string>
+    <string name="profile_tab">Profile</string>
+    <string name="events_tab">Events</string>
+    <string name="connect_tab">Connect</string>
+    <string name="two_tab">Nothing</string>
+    <string name="contact_tab">Contact</string>
+
+</resources>
